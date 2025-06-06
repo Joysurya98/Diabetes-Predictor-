@@ -78,27 +78,6 @@ The model is trained using Logistic Regression on a synthetic diabetes dataset. 
 python train_model.py
 ```
 
----
 
-## 📤 Deployment
 
-- ✅ Upload your code to GitHub
-- ✅ Deploy the frontend on [Streamlit Cloud](https://streamlit.io/cloud)
-- (Optional) Containerize backend with Docker for deployment to Render/Railway
 
----
-
-## 🏁 What's Next?
-
-- Add prediction charts and analytics
-- Deploy backend with Docker
-- Add user roles (admin/user)
-- Improve model with real-world dataset
-
----
-
-## 🧑‍🎓 Ideal For:
-
-- MS in AI/ML application portfolios
-- Resume projects
-- Learning backend + ML integration
